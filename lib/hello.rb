@@ -4,4 +4,4 @@ def hello_t(array)
   while 1 < array.length
     i = i + 1
   end 
-end 
+end
