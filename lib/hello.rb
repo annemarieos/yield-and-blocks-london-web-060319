@@ -4,5 +4,5 @@ def hello_t(array)
   while 1 < array.length
     yield array[i]
     i = i + 1
-  end 
+  end
 end
